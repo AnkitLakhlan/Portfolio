@@ -21,7 +21,7 @@ nav{
     z-index: 9999;
 }
 nav.sticky{
-    background-color: crimson;;
+    background-color: none;
     padding: 0px;
 }
 .navbar{
@@ -53,7 +53,7 @@ nav .menu .menu-item a{
     text-decoration: none;
 }
 nav .menu .menu-item a:hover{
-    color: #6c757d;
+    color: #crimson;
 }
 
 /* menu button styling */
